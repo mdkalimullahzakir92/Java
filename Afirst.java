@@ -9,6 +9,6 @@ class Afirst{
         javac Afirst.java  // to compile
         java Afirst        // to run
 
-        To execute directly without using run button:
+        To execute directly in vs code without using run button:
         press ctrl + alt + N
 */
